@@ -1,0 +1,8 @@
+E:\projects\CSharpToLua\CSharpToLua\bin\Debug\CSharpToLua.exe.config
+E:\projects\CSharpToLua\CSharpToLua\bin\Debug\CSharpToLua.exe
+E:\projects\CSharpToLua\CSharpToLua\bin\Debug\CSharpToLua.pdb
+E:\projects\CSharpToLua\CSharpToLua\bin\Debug\lua51.dll
+E:\projects\CSharpToLua\CSharpToLua\bin\Debug\LuaInterface.dll
+E:\projects\CSharpToLua\CSharpToLua\obj\Debug\CSharpToLua.csprojResolveAssemblyReference.cache
+E:\projects\CSharpToLua\CSharpToLua\obj\Debug\CSharpToLua.exe
+E:\projects\CSharpToLua\CSharpToLua\obj\Debug\CSharpToLua.pdb
